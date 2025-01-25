@@ -8,7 +8,7 @@
  - [Conclusion](#Conclusion)
  
 ## Background
-<img src="images/BotWander.jpeg" alt="BotWander" width="600"/>
+<img src="images/BotWander.jpg" alt="BotWander" width="600"/>
 
 This app is designed to help backpackers efficiently plan their travels. It combines country selection, interest exploration, real-time itinerary viewing, and route optimization, all within an easy-to-navigate interface. The app also includes a chatbot powered by OpenAI GPT-3.5 Turbo, offering personalized assistance for any travel-related questions.
 
